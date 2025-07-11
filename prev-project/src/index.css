@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background: linear-gradient(to right, #2957A4, #3E7DE6);
+  color: white;
+}
+
+.left-section {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.logo-previ {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: white;
+}
+
+.logo-previ-img {
+  height: 40px;
+  width: auto;
+}
+
+
+.search-input {
+  padding: 0.4rem;
+  border-radius: 4px;
+  border: none;
+}
+
+.layout {
+  display: flex;
+  flex: 1;
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #ffffff;
+  padding: 1rem;
+  border-right: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: "Poppins", sans-serif;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar ul li {
+  margin-bottom: 12px;
+}
+
+.sidebar a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #333;
+  padding: 0.6rem 0.8rem;
+  border-radius: 8px;
+  transition: background 0.2s ease;
+}
+
+.sidebar a:hover {
+  background-color: #f0f4ff;
+  color: #2957A4;
+}
+
+.sidebar .icon {
+  margin-right: 10px;
+  font-size: 1.1rem;
+}
+
+.sidebar ul li.active a {
+  background-color: #2957A4;
+  color: white;
+  font-weight: 500;
+}
+
+.config {
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+  margin-top: auto;
+}
+
+.config a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+.config a:hover {
+  color: #2957A4;
+}
+
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  overflow-y: auto;
+  background-color: white;
+}
+
+.home {
+  text-align: center;
+  color: #555;
+  margin-top: 20vh;
+}
+
+.home .icon {
+  font-size: 4rem;
+  color: #60a5fa;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.table-sim > div {
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  background-color: #f1f1f1;
+  border-radius: 4px;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 0.5rem 1rem;
+  width: 250px;
+}
+
+.search-icon {
+  width: 18px;
+  height: 18px;
+  margin-right: 0.5rem;
+  opacity: 0.7;
+}
+
+.search-box input {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 1rem;
+  width: 100%;
+}
+
+.search-box input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.logo-previ {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.logo-previ-img {
+  height: 40px;
+  width: auto;
+}
+
