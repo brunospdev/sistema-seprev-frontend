@@ -49,33 +49,13 @@ function PCA() {
   };
 
   return (
-<<<<<<< HEAD
-    <div>
-      <h2>PCA - Plano de Contratação Anual</h2>
-
-      <div className="btn-container">
-        <button className="btn">+ Adicionar PCA</button>
-        <button className="btn-secondary">Exportar</button>
-      </div>
-
-      <div className="table-sim">
-        <table>
-          <tbody>
-            <tr>
-              <td>Campo 1</td>
-              <td>Campo 2</td>
-              <td>Campo 3</td>
-            </tr>
-          </tbody>
-        </table>
-=======
     <div className="pca-container">
       <div className="pca-header">
         <h2>PCA - Plano de Contratação Anual</h2>
+
         <button onClick={() => setShowModal(true)} className="btn">
           + Adicionar PCA
         </button>
->>>>>>> feat-pca
       </div>
 
       <table className="tabela-pca">
@@ -101,7 +81,6 @@ function PCA() {
         </tbody>
       </table>
 
-      {/* Modal para Adicionar/Editar */}
       {showModal && (
         <div className="modal-overlay">
           <div className="modal-content">
