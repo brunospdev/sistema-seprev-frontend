@@ -1,0 +1,90 @@
+.pca-container {
+  padding: 1rem;
+}
+
+.pca-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tabela-pca {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  margin-top: 1rem;
+}
+
+.tabela-pca th,
+.tabela-pca td {
+  padding: 10px 12px;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.tabela-pca thead {
+  background-color: #f5f5f5;
+}
+
+.tabela-pca tr:hover {
+  background-color: #f0f4ff;
+  transition: background-color 0.2s;
+}
+
+.tabela-pca th {
+  font-weight: 600;
+  color: #333;
+}
+
+.tabela-pca td {
+  color: #444;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  width: 400px;
+}
+
+.modal-input {
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+
+.modal-buttons {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.modal-buttons .btn {
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-family: inherit;
+  color: #fff;
+}
+
+.modal-buttons .btn:hover {
+  background-color: #357abd;
+}
+.btn {
+  cursor: pointer;
+}
