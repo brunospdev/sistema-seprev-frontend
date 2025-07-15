@@ -30,10 +30,7 @@ function Sidebar() {
           <Link to="/aditivos"><FaPlus className="icon" /> Aditivos</Link>
         </li>
       </ul>
-      <div className="config">
-        <Link to="/config"><FaCog className="icon" /> Configurações do Sistema</Link>
-      </div>
-    </aside>
+          </aside>
   );
 }
 

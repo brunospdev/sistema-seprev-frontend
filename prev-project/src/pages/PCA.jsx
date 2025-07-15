@@ -2,11 +2,22 @@ function PCA() {
   return (
     <div>
       <h2>PCA - Plano de Contratação Anual</h2>
-      <button className="btn">+ Adicionar PCA</button>
+
+      <div className="btn-container">
+        <button className="btn">+ Adicionar PCA</button>
+        <button className="btn-secondary">Exportar</button>
+      </div>
+
       <div className="table-sim">
-        <div>Campo 1</div>
-        <div>Campo 2</div>
-        <div>Campo 3</div>
+        <table>
+          <tbody>
+            <tr>
+              <td>Campo 1</td>
+              <td>Campo 2</td>
+              <td>Campo 3</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
   );

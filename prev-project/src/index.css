@@ -138,10 +138,28 @@ body {
 
 .btn {
   padding: 0.5rem 1rem;
-  background-color: #2563eb;
+  background-color: #2563eb; /* azul */
   color: white;
   border: none;
   border-radius: 4px;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.btn-secondary {
+  padding: 0.5rem 1rem;
+  background-color: #6b7280; /* cinza */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
   margin-bottom: 1rem;
 }
 
