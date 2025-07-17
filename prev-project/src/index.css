@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
 body {
   margin: 0;
@@ -16,7 +16,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background: linear-gradient(to right, #2957A4, #3E7DE6);
+  background: linear-gradient(to right, #2957a4, #3e7de6);
   color: white;
 }
 
@@ -40,7 +40,6 @@ body {
   width: auto;
 }
 
-
 .search-input {
   padding: 0.4rem;
   border-radius: 4px;
@@ -53,7 +52,7 @@ body {
 }
 
 .sidebar {
-  width: 250px;
+  width: 200px;
   background-color: #ffffff;
   padding: 1rem;
   border-right: 1px solid #ccc;
@@ -85,7 +84,7 @@ body {
 
 .sidebar a:hover {
   background-color: #f0f4ff;
-  color: #2957A4;
+  color: #2957a4;
 }
 
 .sidebar .icon {
@@ -94,7 +93,7 @@ body {
 }
 
 .sidebar ul li.active a {
-  background-color: #2957A4;
+  background-color: #2957a4;
   color: white;
   font-weight: 500;
 }
@@ -114,7 +113,7 @@ body {
 }
 
 .config a:hover {
-  color: #2957A4;
+  color: #2957a4;
 }
 
 .main-content {
@@ -211,4 +210,3 @@ body {
   height: 40px;
   width: auto;
 }
-

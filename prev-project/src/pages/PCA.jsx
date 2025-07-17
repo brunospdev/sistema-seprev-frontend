@@ -24,6 +24,7 @@ function PCA() {
     } else {
       // Criação
       await api.post("/pca", { data: novoPca });
+      console.log(novoPca);
     }
 
     setShowModal(false);
@@ -61,20 +62,16 @@ function PCA() {
       <table className="tabela-pca">
         <thead>
           <tr>
-            <th>ID</th>
             <th>Nome</th>
             <th>Versão</th>
-            <th>Fim Vigência</th>
             <th>Criado Por</th>
           </tr>
         </thead>
         <tbody>
           {pcas.map((pca) => (
             <tr key={pca.idPCA} onClick={() => abrirModalEdicao(pca)}>
-              <td>{pca.idPCA}</td>
               <td>{pca.nome_pca}</td>
               <td>{pca.versao}</td>
-              <td>{pca.fim_vigencia ? "Sim" : "Não"}</td>
               <td>{pca.criado_por}</td>
             </tr>
           ))}
@@ -96,20 +93,6 @@ function PCA() {
               onChange={handleChange}
               className="modal-input"
             />
-
-            <label>
-              <input
-                type="checkbox"
-                name="fim_vigencia"
-                checked={
-                  pcaSelecionado
-                    ? pcaSelecionado.fim_vigencia
-                    : novoPca.fim_vigencia
-                }
-                onChange={handleChange}
-              />
-              &nbsp;Fim da vigência
-            </label>
 
             <div className="modal-buttons">
               <button onClick={handleSave} className="btn">

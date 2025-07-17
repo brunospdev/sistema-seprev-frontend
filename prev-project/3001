@@ -1,0 +1,494 @@
+Error [ERR_UNSUPPORTED_DIR_IMPORT]: Directory import 'C:\Users\GLBrayner\Documents\GitHub\sistema-seprev-frontend\prev-project\dist' is not supported resolving ES modules imported from C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js
+    at new NodeError (node:internal/errors:405:5)
+    at finalizeResolution (node:internal/modules/esm/resolve:216:17)
+    at moduleResolve (node:internal/modules/esm/resolve:837:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1035:11)
+    at DefaultModuleLoader.resolve (node:internal/modules/esm/loader:269:12)
+    at DefaultModuleLoader.getModuleJob (node:internal/modules/esm/loader:153:32)
+    at DefaultModuleLoader.import (node:internal/modules/esm/loader:245:28)
+    at importModuleDynamically (node:internal/modules/cjs/loader:1187:37)
+    at importModuleDynamicallyWrapper (node:internal/vm/module:428:21)
+    at importModuleDynamically (node:internal/vm:105:46) {
+  code: 'ERR_UNSUPPORTED_DIR_IMPORT',
+  url: 'file:///C:/Users/GLBrayner/Documents/GitHub/sistema-seprev-frontend/prev-project/dist'
+}
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+C:\USERS\GLBRAYNER\APPDATA\ROAMING\NPM\SERVE.CMD:1
+@ECHO off
+^
+
+SyntaxError: Invalid or unexpected token
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1177:20)
+    at Module._compile (node:internal/modules/cjs/loader:1221:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Object.<anonymous> (C:\Users\GLBrayner\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
